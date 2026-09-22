@@ -1,0 +1,11 @@
+# Игнорируем байт-код Python
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения и зависимости
+venv/
+.env
+.venv
+node_modules/
